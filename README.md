@@ -1,6 +1,6 @@
 # Histograma y Grafica de Barras
 
-Em esta carpeta se muestra la realización de distintas gráficas basadas en datasets.
+En este directorio se muestra la realización de distintas gráficas basadas en datasets.
 
 ## Titanic.R
 
