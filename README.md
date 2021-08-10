@@ -26,6 +26,13 @@ y *Grafica de Pastel sangineo grupo B.png* las gráficas resultado de los archiv
 
 En este directorio se muestra la obtencion de reglas de asociación a partir del 
 dataset *datosgroceries.csv*, que se encuentra en el directorio Dara, utilizando 
-el algoritmo Apriori. Todo lo anterior se hace en el script de R *reglas.R* y los
-resultados se muestran en los histogrmas *Distribucion.png*, *Frecuentes.png* y 
-en la variable reglas.
+el algoritmo Apriori. 
+
+## src/reglas.R
+
+Todo lo anteriormete descrito se hace en el script de R *reglas.R*.
+
+## Resultados
+
+los resultados se muestran en el directorio Resultados que contiene los histogramas
+*Distribucion.png*, *Frecuentes.png* y capturas de las reglas obtenidas.
