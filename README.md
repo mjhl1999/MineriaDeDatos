@@ -1,4 +1,4 @@
-# Histograma y Grafica de Barras
+# Histograma y otras graficas
 
 En este directorio se muestra la realización de distintas gráficas basadas en datasets.
 
