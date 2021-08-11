@@ -1,6 +1,6 @@
 # Cart Trees
 
-En este directorio se muestra la obtencion de rboles de decisión tipo Cart, a partir del
+En este directorio se muestra la obtencion de árboles de decisión tipo Cart, a partir del
 dataset *wine.data* que se encuentra en el directorio Data.
 
 ## Resultados
@@ -32,6 +32,16 @@ En los archivos *Grafica de Pastel GrA.png* se encuentra la grafica resultado
 del dataset creado dentro del script, y en los arcrivos *Grafica de Pastel sangineo grupo A.png*
 y *Grafica de Pastel sangineo grupo B.png* las gráficas resultado de los archivos
 *grupoA.csv* y *grupoB.csv* respectivamente.
+
+# Redes Neuronales
+
+En este directorio se muestra la obtencion de árboles de decisión tipo Cart, a partir del
+dataset *pulsar_data_train.csv* que se encuentra en el directorio Data.
+
+## Resultados
+
+En este directorio se muestra una representación gráfica de la red neuronal creada en el
+archivo *RN.png* y una evaluación de la misma en en *Evaluación.pdf*.
 
 # Reglas de asociacion
 
