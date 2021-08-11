@@ -1,3 +1,14 @@
+# Cart Trees
+
+En este directorio se muestra la obtencion de rboles de decisión tipo Cart, a partir del
+dataset *wine.data* que se encuentra en el directorio Data.
+
+## Resultados
+
+Los resultados se muestran en el directorio Resultados que contiene los árboles resultado,
+con el nombre *arbol_n.png*, cambiando el seed, y su interpretación en un .pdf con el
+mismo nombre.
+
 # Histograma y otras graficas
 
 En este directorio se muestra la realización de distintas gráficas basadas en datasets.
@@ -34,5 +45,5 @@ Todo lo anteriormete descrito se hace en el script de R *reglas.R*.
 
 ## Resultados
 
-los resultados se muestran en el directorio Resultados que contiene los histogramas
+Los resultados se muestran en el directorio Resultados que contiene los histogramas
 *Distribucion.png*, *Frecuentes.png* y capturas de las reglas obtenidas.
