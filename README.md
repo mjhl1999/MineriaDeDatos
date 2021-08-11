@@ -9,6 +9,17 @@ Los resultados se muestran en el directorio Resultados que contiene los árboles
 con el nombre *arbol_n.png*, cambiando el seed, y su interpretación en un .pdf con el
 mismo nombre.
 
+# Clustering Jerarquico
+
+En este directorio se hace clustering jerarquico sobre el dataset Freedman, que se encuentra en 
+el directorio Data. Esto es hecho en el script de R con nombre *Jerarquico.R*.
+
+## Resultados 
+
+Este directorio contiene las representaciones gráficas, es decir, hendoframas, del proceso 
+anteriormente mencionado y en el archivo *hc.pdf* se hace un pequeño analisis del dataset y
+de los hendogramas resultado.
+
 # Histograma y otras graficas
 
 En este directorio se muestra la realización de distintas gráficas basadas en datasets.
@@ -32,6 +43,18 @@ En los archivos *Grafica de Pastel GrA.png* se encuentra la grafica resultado
 del dataset creado dentro del script, y en los arcrivos *Grafica de Pastel sangineo grupo A.png*
 y *Grafica de Pastel sangineo grupo B.png* las gráficas resultado de los archivos
 *grupoA.csv* y *grupoB.csv* respectivamente.
+
+# K-Means Clustering
+
+En este directorio se hace clustering usando K-Means sobre el dataset USArrests.
+Esto es hecho en el script de R con nombre *K-Means.R*.
+
+## Resultados
+
+En este directorio se muestran los k-clusters hechos. En el archvo *kmeans2345.png* se muestran
+todos juntos de forma comparativa. Además en *correlacion.png* se muestra una correlación entre
+las variables. Y por ultimo en el archivo *USArrests.pdf* se hace un pequeño analisis del dataset y
+de los graficos resultado.
 
 # Redes Neuronales
 
